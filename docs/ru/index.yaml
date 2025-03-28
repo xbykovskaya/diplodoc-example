@@ -6,6 +6,5 @@ links:
     href: page.md
   - title: Структура YFM на главной странице
     href: anotherpage.md
-  - title: Подраздел на главной странице
+  - title: Тестовый подраздел на главной странице
     href: sub-section/
-  - title: Тестовый раздел
